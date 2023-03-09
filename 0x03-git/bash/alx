@@ -1,2 +1,9 @@
+#!/bin/bashecho "ALclear
+clear
 #!/bin/bash
-echo "ALX School"
+echo "ALX"
+<<<<<<< HEAD
+
+
+cho "ALX School
+>>>>>>> update_script
